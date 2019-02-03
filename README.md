@@ -29,5 +29,6 @@ Exammple flow:
 * https://nodered.org/docs/creating-nodes/first-node 
 * https://nodered.org/docs/creating-nodes/node-js
 * https://nodered.org/docs/creating-nodes/node-html
+* https://nodered.org/docs/creating-nodes/appearance
 
 * * *
