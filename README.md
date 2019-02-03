@@ -4,6 +4,8 @@ A simple node-red module example.
 
 ## Usage
 
+You must first install node-red.
+
 On a Mac, this will publish to __~/.node-red/package.json__.
 
 ```
@@ -24,7 +26,7 @@ Exammple flow:
 
 ## References
 
-* https://nodered.org/docs/creating-nodes/first-node d
+* https://nodered.org/docs/creating-nodes/first-node 
 * https://nodered.org/docs/creating-nodes/node-js
 * https://nodered.org/docs/creating-nodes/node-html
 
