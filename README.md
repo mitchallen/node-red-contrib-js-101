@@ -4,6 +4,8 @@ A simple node-red module example.
 
 ## Usage
 
+On a Mac, this will publish to __~/.node-red/package.json__.
+
 ```
 npm run publish:local
 ```
